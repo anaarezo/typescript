@@ -1,4 +1,4 @@
-# typescript
+# TypeScript - RocketSeat
 Studying TypeScript
 
 Install
