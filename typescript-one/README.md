@@ -15,6 +15,7 @@ instalar typescript por projeto para poder controlar a versão utilizada em cada
 
 - yarn tsc --init // gera um arquito de tsconfig.json com algumas configurações pré definidas
 
+- rodar o 'yarn tsc' para rodar todos os arquivos que devem ser transpilados
 - para configurar pasta dist é dentro do tsconfig.json
 
 
