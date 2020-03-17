@@ -1,3 +1,3 @@
 "use strict";
-var a = 'teste';
-console.log(a);
+var b = 'teste';
+console.log(b);
